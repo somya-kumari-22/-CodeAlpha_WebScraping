@@ -9,11 +9,6 @@ Install with:
 pip install requests beautifulsoup4 pandas
 ```
 
-## How to Run
-```bash
-python task1_web_scraping.py
-```
-
 ## Output
 - `scraped_quotes.csv` — all scraped data
 - Console shows: total quotes, top authors, top tags
